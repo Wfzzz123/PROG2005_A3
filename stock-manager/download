@@ -1,0 +1,16 @@
+/dist
+/tmp
+/out-tsc
+/www
+/node_modules
+npm-debug.log
+yarn-error.log
+.idea/
+.vscode/
+*.swp
+/.angular/cache
+.sass-cache/
+/connect.lock
+/coverage
+.DS_Store
+Thumbs.db
